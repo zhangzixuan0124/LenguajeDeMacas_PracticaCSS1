@@ -1,0 +1,74 @@
+@charset "UTF-8";
+
+.red{
+	color: red;
+	
+}
+.black{
+	color: black;
+	
+}
+.c1:hover{
+	background-color: yellow;
+	color:red;	
+}
+.c2:hover{
+	background-color: yellow;
+	color:red;	
+}
+.c3:hover{
+	background-color: yellow;
+	color:red;	
+}
+body{
+	
+	background-color: #6699FF;
+	
+}
+section{
+	text-align: center;
+	
+}
+.h1{
+		 
+		  color:black;
+		  font-size: 600%;
+          display: inline-block;
+         
+          
+        }
+.h2{
+        
+         color: blue;
+         font-size: 200%;
+        display: inline-block;
+        
+          text-align: center;
+         
+        }
+.c1{
+          width: 60px;
+          height: 23px;
+          box-sizing: content-box;
+          display: inline-block;
+        }
+        .c2{
+          width: 109px;
+          height: 23px;
+          box-sizing: content-box;
+          display: inline-block;
+        }
+        
+        .c3{
+          width: 90px;
+          height: 23px;
+          box-sizing: content-box;
+          display: inline-block;
+        }
+
+        .c{
+          width: 70px;
+          height: 50px;
+          box-sizing: content-box;
+          display: inline-block;
+
